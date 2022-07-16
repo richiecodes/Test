@@ -26,6 +26,7 @@ export default function Login() {
           spacing={12}
           boxShadow="2xl"
         >
+          <h1 style={{color:"white", fontSize: "4rem", fontWeight:"bold"}}>Rochoe's Chat</h1>
 
           <Box
             bgGradient='linear(to-l, #7928CA, #FF0080)'
